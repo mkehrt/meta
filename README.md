@@ -1,4 +1,4 @@
 meta
 ====
 
-Liense, makefile tools, &amp;c.
+License, makefile tools, &amp;c.
